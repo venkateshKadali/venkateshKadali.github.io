@@ -1,2 +1,2 @@
-# https://venkateshkadali.com
+# https://venkateshkadali.github.io
 personal website
